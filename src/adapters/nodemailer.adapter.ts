@@ -1,4 +1,4 @@
-import {EmailService} from "../domain/interfaces/email.service.ts"
+import {EmailService} from "../domain/interfaces/email.service"
 import nodemailer from "nodemailer";
 import {env} from "../config/env"
 
